@@ -1,0 +1,17 @@
+future: true
+permalink: /:title/
+url: http://sysuzzy.github.io
+name: sysuzzy
+author: sysuzzy
+qq: 741323965
+email: 741323965@qq.com
+
+duoshuo:
+beian: 
+cnzz: 
+weibo: 
+github: SYSUZZY
+about: "这里是 ZZY 的个人博客，创建于 2018 年。"
+
+safe: true
+paginate: 20
